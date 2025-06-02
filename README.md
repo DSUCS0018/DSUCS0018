@@ -5,5 +5,5 @@
 📌 Currently learning: Machine Learning & Full Stack Development  
 💼 Actively looking for internship opportunities 
 💻 Exploring projects using Python, React.js, and MongoDB  
-📫 Reach me on [LinkedIn](www.linkedin.com/in/ankita-bellad-a5a30433b) | Email: ankitabellad88@gmail.com
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ankita-bellad-a5a30433b) | Email: ankitabellad88@gmail.com
 
